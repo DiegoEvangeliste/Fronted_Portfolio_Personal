@@ -1,0 +1,31 @@
+body{
+    background-image: url(/Images/backgroundPhoto.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: large;
+}
+
+.mainBlock{
+    border-radius: 30px;
+    margin: 10px 10px;
+    padding: 20px;
+    border-color: blueviolet;
+}
+
+.section{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px 5px;
+    border-radius: 15px;
+}
+
+.certificate{
+    width: 30%;
+}
+
+.logoPictures{
+    height: 13px;
+}
